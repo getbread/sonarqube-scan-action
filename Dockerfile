@@ -1,4 +1,4 @@
-FROM sonarsource/sonar-scanner-cli:4.7
+FROM sonarsource/sonar-scanner-cli:4.6
 
 LABEL version="1.1.0" \
       repository="https://github.com/sonarsource/sonarqube-scan-action" \
